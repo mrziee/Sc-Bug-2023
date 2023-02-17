@@ -1,0 +1,92 @@
+{
+  "users": {
+    "6288294377518@s.whatsapp.net": {
+      "name": "Ziee Bug",
+      "limit": 100,
+      "monay": 0,
+      "darah": 100,
+      "besi": 5,
+      "emas": 1,
+      "emerald": 1,
+      "umpan": 1,
+      "potion": 1,
+      "ikan": 0,
+      "ayam": 0,
+      "kelinci": 0,
+      "domba": 0,
+      "sapi": 0,
+      "gajah": 0,
+      "delete": {
+        "type": "",
+        "text": "",
+        "url": ""
+      }
+    },
+    "6285773914826@s.whatsapp.net": {
+      "name": "Zielyx Shop",
+      "limit": 100,
+      "monay": 0,
+      "darah": 100,
+      "besi": 5,
+      "emas": 1,
+      "emerald": 1,
+      "umpan": 1,
+      "potion": 1,
+      "ikan": 0,
+      "ayam": 0,
+      "kelinci": 0,
+      "domba": 0,
+      "sapi": 0,
+      "gajah": 0,
+      "delete": {
+        "type": "",
+        "text": "",
+        "url": ""
+      }
+    }
+  },
+  "banned": {},
+  "chats": {},
+  "data": [],
+  "database": {},
+  "game": {
+    "tebaklagu": [],
+    "family100": [],
+    "math": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "lontong": [],
+    "lontong_desk": [],
+    "kalimat": [],
+    "lirik": [],
+    "tebakan": []
+  },
+  "settings": {
+    "6288294377518@s.whatsapp.net": {
+      "nomerowner": "6285773914826",
+      "namaowner": "𝙼r Zi𝚎𝚎",
+      "copyright": "𝙼r Zi𝚎𝚎",
+      "setmenu": "image",
+      "setwelcome": "image",
+      "replytype": "web1",
+      "auto": "recording",
+      "anticall": false,
+      "public": true,
+      "autovn": false,
+      "autosticker": false,
+      "autorespon": false,
+      "autoread": false,
+      "autobug": {
+        "status": false,
+        "expired": 0
+      }
+    }
+  },
+  "others": {
+    "vote": []
+  },
+  "owner": {},
+  "sticker": {},
+  "stickernye": {},
+  "audionye": {}
+}
